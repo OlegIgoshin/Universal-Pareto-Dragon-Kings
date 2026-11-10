@@ -1,5 +1,14 @@
 cff-version: 1.2.0
-message: "Please cite the accompanying manuscript when using this code."
+message: "If you use this code, please cite the accompanying manuscript."
 title: "Reproducible simulations and analysis for Universal Pareto law and wealth condensation in nonequilibrium wealth-exchange games"
 type: software
-abstract: "Source-only implementations of numerical Figures 2–5 and SI checks."
+authors:
+  - family-names: Igoshin
+    given-names: Oleg A.
+  - family-names: Makarov
+    given-names: Dmitrii E.
+  - family-names: Morozov
+    given-names: Alexandre V.
+abstract: "Source-only implementations of numerical Figures 2–5 and Supporting Information checks."
+license: MIT
+date-released: 2026-11-10
