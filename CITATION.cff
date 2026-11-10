@@ -1,0 +1,5 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using this code."
+title: "Reproducible simulations and analysis for Universal Pareto law and wealth condensation in nonequilibrium wealth-exchange games"
+type: software
+abstract: "Source-only implementations of numerical Figures 2–5 and SI checks."

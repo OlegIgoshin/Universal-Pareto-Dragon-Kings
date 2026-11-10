@@ -1,0 +1,14 @@
+# Computed figures and intermediate simulation output
+/results/
+/results_*/
+/.cache/
+**/__pycache__/
+*.py[cod]
+*.nbc
+*.nbi
+*.egg-info/
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
